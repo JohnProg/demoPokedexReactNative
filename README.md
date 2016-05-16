@@ -1,3 +1,3 @@
 # demoPokedexReactNative
 
-APp demo built with react native.
+App demo built with react native.
